@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-redux-saga-bootstrap",
+  "version": "1.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "A template for building stateful Redux apps using Redux-Saga, with Bootstrap & FontAwesome support",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexkitch/create-react-app-templates.git",
+    "directory": "templates/cra-template-redux-saga-bootstrap"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/alexkitch/create-react-app-templates/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
