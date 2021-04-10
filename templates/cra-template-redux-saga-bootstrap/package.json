@@ -21,6 +21,7 @@
   },
   "files": [
     "template",
-    "template.json"
+    "template.json",
+    "tsconfig.json"
   ]
 }
